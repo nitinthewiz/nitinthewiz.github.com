@@ -2,10 +2,10 @@
 # Main Configs #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://nitinthewiz.github.com
 title: My Sani Blog
-subtitle: Less Code. More Blogging.
-author: Your Name
+subtitle: Less Code. More Blogging. or More Code. Less Blogging.
+author: Nitin Khanna
 simple_search: http://google.com/search
 description:
 sidebar:
